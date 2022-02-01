@@ -2,7 +2,7 @@
 ## Installation
 - Install python 3.9 
 - Download StarbaseSpy repo from git
-- in the local StarbaseSpy folder in console run: 
+- in the local StarbaseSpy folder in console (CMD) run: 
   - python -m ensurepip
   - pip install -r requirements.txt
   - mkdir img
