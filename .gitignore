@@ -130,3 +130,6 @@ dmypy.json
 /config.py
 /.idea
 /img
+/localhost-chain.pem
+/.vs
+/_ReSharper.Caches
