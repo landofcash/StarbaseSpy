@@ -4,7 +4,7 @@ from ctypes import windll
 from PIL import Image
 
 def crop_social(im):
-    im=im.crop((int(im.width*0.23),int(im.height*0.21),int(im.width*0.74),int(im.height*0.82))) #300 160 -- 960 630
+    im=im.crop((int(im.width*0.25),int(im.height*0.21),int(im.width*0.74),int(im.height*0.82))) #300 160 -- 960 630
     return im
 
 
